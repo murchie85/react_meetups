@@ -1,3 +1,13 @@
+# REACT NOTES
+
+- Main page is in the `public/index.html` that gets hijaced and dynamiced by react
+- `App.js` needs `export default App;` 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
