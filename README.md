@@ -3,6 +3,7 @@
 
 [Jump to getting started notes](#Getting-Started-with-Create-React-App)
 
+- **Components names should start with capital**
 - Main page is in the `public/index.html` that gets hijaced and dynamiced by react
 - `App.js` needs `export default App;` 
 - React is all about small modular components that call others

@@ -1,17 +1,13 @@
-
+import Todo from './components/Todo'
+ 
 function App() {
-  return <div>
+  return (
+    <div>
       <h1>My Todos</h1>
-      
-      <div className="card">
-        <h2>Title</h2>
-        <div>
-            <button>Delete</button>
-        </div>
-      </div>
+      <Todo />
 
-    </div>;
-  ;
+    </div>
+  );
 }
 
 export default App;
